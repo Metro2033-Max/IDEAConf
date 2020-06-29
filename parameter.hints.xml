@@ -1,0 +1,17 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="Java">
+        <added pattern="hbase.apache.org.operate.HBaseOperation.get(table,rowkey)" />
+      </blacklist>
+      <blacklist language="JavaScript" />
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin" />
+    </blacklists>
+    <option id="java.multiple.params.same.type" value="true" />
+    <option id="java.clear.expression.type" value="true" />
+    <option id="sql.show.column.names.in.select" value="true" />
+    <option id="java.method.name.contains.parameter.name" value="false" />
+  </component>
+</application>

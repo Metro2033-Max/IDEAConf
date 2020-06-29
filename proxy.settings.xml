@@ -1,0 +1,10 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_TYPE_IS_SOCKS" value="true" />
+    <option name="USE_PROXY_PAC" value="true" />
+    <option name="PROXY_HOST" value="sg06.fubuki.live" />
+    <option name="PROXY_PORT" value="556" />
+    <option name="PROXY_AUTHENTICATION" value="true" />
+    <option name="KEEP_PROXY_PASSWORD" value="true" />
+  </component>
+</application>

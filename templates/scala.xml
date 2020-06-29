@@ -1,0 +1,9 @@
+<templateSet group="scala">
+  <template name="soutv" value="println(&quot;$EXPR_COPY$ = &quot; + $EXPR$);" description="soutv" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR_COPY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+</templateSet>
