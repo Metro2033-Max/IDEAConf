@@ -4,7 +4,7 @@
     <property name="created">2020-04-29T11:49:30</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2020-07-07T19:12:58</property>
+    <property name="modified">2020-07-08T11:52:15</property>
     <property name="originalScheme">Relax Your Eyes Green</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -446,9 +446,9 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ff8142" />
-        <option name="EFFECT_COLOR" value="ffffff" />
-        <option name="ERROR_STRIPE_COLOR" value="ff7c10" />
+        <option name="BACKGROUND" value="f09d6c" />
+        <option name="EFFECT_COLOR" value="e11912" />
+        <option name="ERROR_STRIPE_COLOR" value="f02b08" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
